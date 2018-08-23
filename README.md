@@ -1,4 +1,5 @@
 # The Rust Programming Language (2nd ed.)
+
 This repository contains the code examples from the book.
 
 ## Content
